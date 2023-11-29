@@ -34,4 +34,3 @@ root.mainloop()
 
 # https://carpedm20.github.io/emoji/
 
-https://076923.github.io/posts/Python-tkinter-5/
