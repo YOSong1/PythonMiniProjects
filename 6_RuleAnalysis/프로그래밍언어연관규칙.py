@@ -2,7 +2,7 @@
 import pandas as pd
 
 # CSV 파일 읽어오기
-raw_data = pd.read_csv('C:\data\survey_results_public.csv')
+raw_data = pd.read_csv('survey_results_public.csv')
 
 # 데이터프레임 정보 확인하기
 raw_data.info()
