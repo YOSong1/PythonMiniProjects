@@ -4,10 +4,7 @@ from pandas import DataFrame
 import matplotlib.pyplot as plt
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import (FigureCanvasTkAgg, NavigationToolbar2Tk)
-from matplotlib import animation
-import numpy as np
-import random
-import time
+
 
 def makeMenu():
     menubar = Menu(window)
@@ -123,8 +120,7 @@ def makeTab():
 
     return tab1, tab2, tab3, tab4
 
-# def makeGraph():
-#     pass
+
 def donothing():
    makeGraph1(tab4)
 
